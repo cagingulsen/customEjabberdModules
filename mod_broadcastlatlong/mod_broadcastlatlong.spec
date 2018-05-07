@@ -1,0 +1,5 @@
+author: "cagingulsen"
+category: "admin"
+summary: "Broadcasts latitude and longitude information periodically"
+home: "https://github.com/processone/ejabberd-contrib/tree/master/"
+url: "git@github.com:cagingulsen/customEjabberdModules.git"
